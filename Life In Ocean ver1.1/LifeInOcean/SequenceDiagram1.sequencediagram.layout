@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sequenceDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SequenceDiagram1">
+  <SequenceDesignerModelMoniker Id="8ec34632-de49-4cf4-8e11-d89cab549b2d" />
+  <nestedChildShapes>
+    <lifelineShape Id="75c4ef5d-6a37-432c-b72f-794bdfa66da6" absoluteBounds="3.3645832538604736, 1, 0.15, 7" visible="true" visualStyleMode="Modified">
+      <lifelineMoniker Id="55a0e351-81c1-4ea5-8531-e472c0e83c8f" LastKnownName="Cell" />
+      <relativeChildShapes>
+        <dotNetLifelineHeadShape Id="73a4095b-094b-4225-8835-a8f47f99d604" absoluteBounds="2.9395832538604738, 0.6, 1, 0.4" customColor="184, 204, 215" visualStyleMode="Modified">
+          <lifelineMoniker Id="55a0e351-81c1-4ea5-8531-e472c0e83c8f" LastKnownName="Cell" />
+          <relativeChildShapes />
+        </dotNetLifelineHeadShape>
+        <lifelineHoverShape Id="655ce6b0-be16-45e7-8d0a-66005a28b8dd" absoluteBounds="3.3645832538604736, 1, 0, 7">
+          <lifelineMoniker Id="55a0e351-81c1-4ea5-8531-e472c0e83c8f" LastKnownName="Cell" />
+        </lifelineHoverShape>
+        <dotNetExecutionSpecificationShape Id="29550fec-0505-4e9b-af97-9bdd7c645376" absoluteBounds="3.3645832538604736, 3.395833333333333, 0.125, 0.55" customColor="184, 204, 215" visualStyleMode="Modified">
+          <behaviorExecutionSpecificationMoniker Id="ff6afb72-d3df-43aa-a00e-778bcdcbfff5" LastKnownName="BehaviorExecutionSpecification" />
+        </dotNetExecutionSpecificationShape>
+      </relativeChildShapes>
+    </lifelineShape>
+    <lifelineShape Id="59cc0435-f9ba-4104-9641-11a2421b2b72" absoluteBounds="5.8958334922790527, 1, 0.15, 7" visible="true" visualStyleMode="Modified">
+      <lifelineMoniker Id="36834a40-8ff6-4437-94bf-a596606fe194" LastKnownName="Lifeline2" />
+      <relativeChildShapes>
+        <dotNetLifelineHeadShape Id="23dd7698-33cb-457f-a625-fa19194bd8ad" absoluteBounds="5.4708334922790529, 0.6, 1, 0.4" customColor="184, 204, 215" visualStyleMode="Modified">
+          <lifelineMoniker Id="36834a40-8ff6-4437-94bf-a596606fe194" LastKnownName="Lifeline2" />
+          <relativeChildShapes />
+        </dotNetLifelineHeadShape>
+        <lifelineHoverShape Id="9e017d07-cc32-4005-a661-2540426b4d53" absoluteBounds="5.8958334922790527, 1, 0, 7">
+          <lifelineMoniker Id="36834a40-8ff6-4437-94bf-a596606fe194" LastKnownName="Lifeline2" />
+        </lifelineHoverShape>
+      </relativeChildShapes>
+    </lifelineShape>
+    <lifelineShape Id="4bd54327-ebb9-4c1f-b9cc-a83b664d2975" absoluteBounds="8.4270830154418945, 1, 0.15, 7" visible="true" visualStyleMode="Modified">
+      <lifelineMoniker Id="e539a593-c634-4ae4-8865-bd81ee467904" LastKnownName="Lifeline3" />
+      <relativeChildShapes>
+        <dotNetLifelineHeadShape Id="ce2f5a57-9d66-4a4e-8688-78c1faa64d0f" absoluteBounds="8.0020830154418938, 0.6, 1, 0.4" customColor="184, 204, 215" visualStyleMode="Modified">
+          <lifelineMoniker Id="e539a593-c634-4ae4-8865-bd81ee467904" LastKnownName="Lifeline3" />
+          <relativeChildShapes />
+        </dotNetLifelineHeadShape>
+        <lifelineHoverShape Id="03fafe64-7a6e-4789-b2ee-55cf8baeb4fa" absoluteBounds="8.4270830154418945, 1, 0, 7">
+          <lifelineMoniker Id="e539a593-c634-4ae4-8865-bd81ee467904" LastKnownName="Lifeline3" />
+        </lifelineHoverShape>
+      </relativeChildShapes>
+    </lifelineShape>
+    <syncSelfMessageConnector edgePoints="[(3.43958325386047 : 3.14583333333333); (3.68958325386047 : 3.14583333333333); (3.68958325386047 : 3.39583333333333); (3.48958325386047 : 3.39583333333333)]" fixedFrom="Caller" fixedTo="Caller" TargetRelationshipDomainClassId="e24617ce-6c7e-4c7d-802a-63014f02e313" customColor="Black" visible="true" visualStyleMode="Modified" messageId="00000000-0000-0000-0000-000000000000">
+      <relativeChildShapes />
+      <nodes>
+        <lifelineShapeMoniker Id="75c4ef5d-6a37-432c-b72f-794bdfa66da6" />
+        <dotNetExecutionSpecificationShapeMoniker Id="29550fec-0505-4e9b-af97-9bdd7c645376" />
+      </nodes>
+    </syncSelfMessageConnector>
+  </nestedChildShapes>
+</sequenceDesignerDiagram>

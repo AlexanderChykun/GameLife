@@ -1,0 +1,12 @@
+F:\с#\LifeInOcean\LifeInOcean\bin\Debug\LifeInOcean.exe.config
+F:\с#\LifeInOcean\LifeInOcean\bin\Debug\LifeInOcean.exe
+F:\с#\LifeInOcean\LifeInOcean\bin\Debug\LifeInOcean.pdb
+F:\с#\LifeInOcean\LifeInOcean\obj\Debug\LifeInOcean.csprojResolveAssemblyReference.cache
+F:\с#\LifeInOcean\LifeInOcean\obj\Debug\LifeInOcean.exe
+F:\с#\LifeInOcean\LifeInOcean\obj\Debug\LifeInOcean.pdb
+F:\с#\Life In Ocean ver1.1\LifeInOcean\bin\Debug\LifeInOcean.exe.config
+F:\с#\Life In Ocean ver1.1\LifeInOcean\obj\Debug\LifeInOcean.exe
+F:\с#\Life In Ocean ver1.1\LifeInOcean\obj\Debug\LifeInOcean.pdb
+F:\с#\Life In Ocean ver1.1\LifeInOcean\obj\Debug\LifeInOcean.csprojResolveAssemblyReference.cache
+F:\с#\Life In Ocean ver1.1\LifeInOcean\bin\Debug\LifeInOcean.exe
+F:\с#\Life In Ocean ver1.1\LifeInOcean\bin\Debug\LifeInOcean.pdb
